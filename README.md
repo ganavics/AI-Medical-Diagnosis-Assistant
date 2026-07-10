@@ -119,12 +119,29 @@ The application will run at:
 
 ## Screenshots
 
-Add screenshots of:
+### Home Page
 
-- Home Page
-- Disease Prediction
-- Dark Mode
-- PDF Report
+![Home Page](screenshots/home.png)
+
+### Disease Prediction
+
+![Disease Prediction](screenshots/prediction.png)
+
+### Prediction Details
+
+![Prediction Details](screenshots/prediction-details.png)
+
+### Dark Mode
+
+![Dark Mode](screenshots/darkmode.png)
+
+### PDF Report
+
+![PDF Report](screenshots/report.png)
+
+### Nearby Hospitals
+
+![Nearby Hospitals](screenshots/nearby-hospitals.png)
 ---
 
 ## Future Enhancements
