@@ -73,12 +73,20 @@ AI-Medical-Diagnosis-Assistant
 │   ├── symptom_precaution.csv
 │   └── Symptom-severity.csv
 │
-└── model
-    ├── disease_model.pkl
-    └── symptom_encoder.pkl
+├── model
+│   ├── disease_model.pkl
+│   └── symptom_encoder.pkl
+│
+├── screenshots
+│   ├── home.png
+│   ├── prediction.png
+│   ├── prediction-details.png
+│   ├── darkmode.png
+│   ├── report.png
+│   └── nearby-hospitals.png
+│
+└── README.md
 ```
-
----
 
 ## Installation
 
