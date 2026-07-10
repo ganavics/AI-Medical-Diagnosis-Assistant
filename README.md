@@ -119,16 +119,12 @@ The application will run at:
 
 ## Screenshots
 
-Include screenshots of:
+Add screenshots of:
 
 - Home Page
-- Disease Prediction Result
-- Top 3 Predictions
+- Disease Prediction
 - Dark Mode
-- Voice Input
 - PDF Report
-- Nearby Hospital Search
-
 ---
 
 ## Future Enhancements
