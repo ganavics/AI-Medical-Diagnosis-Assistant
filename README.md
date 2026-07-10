@@ -165,6 +165,6 @@ The application will run at:
 
 ## Author
 
-**C S Ganavi Prasad**
+**Ganavi C S**
 
 GitHub: https://github.com/ganavics
